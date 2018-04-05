@@ -1,0 +1,21 @@
+{
+  "name": "css-snes-controller",
+  "version": "1.0.0",
+  "description": "A CSS-only SNES controller, because why not?",
+  "scripts": {
+    "start": "browser-sync start --server --files '*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanieseltzer/css-snes-controller.git"
+  },
+  "author": "Melanie Seltzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melanieseltzer/css-snes-controller/issues"
+  },
+  "homepage": "https://github.com/melanieseltzer/css-snes-controller#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
