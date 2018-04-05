@@ -1,5 +1,5 @@
-# CSS-only SNES Controller
+# CSS SNES Controller
 
-Because why not? :video_game:
+Recreating the SNES controller with pure CSS, experimenting with BEM methodology. :video_game:
 
 https://melanieseltzer.github.io/css-snes-controller/
