@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/melanieseltzer/css-snes-controller#readme",
   "devDependencies": {
-    "browser-sync": "^2.23.6"
+    "browser-sync": "^2.24.1"
   }
 }
